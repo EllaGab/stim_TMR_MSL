@@ -29,16 +29,16 @@ across all participants.
 
 ## GUI
 
-Use the "Quit" button to close menus. This will ensure proper saving of the data
+Use the `Quit` button to close menus. This will ensure proper saving of the data
 and releasing computational resources (e.g., memory, processing, etc.)
 
-Press 'Escape' to interrupt the session.
+Press `Escape` to interrupt the session.
 
-Press '5' to start the task. This is the TTL key that is expected from the scanner
+Press `5` to start the task. This is the TTL key that is expected from the scanner
 to start the scanning session.
 
 If STIM crashed or was interrupted unexpectedly, the keyboard input to Matlab
-may be disabled. To enable it, press CTRL+C. It is the same as ListenChar(0).
+may be disabled. To enable it, press `CTRL+C`. It is the same as ListenChar(0).
 
 When using additional equipment, such as keypad or a second screen, connect everything before
 statring the matlab. Otherwise, the equipment will not be correctly recognized.
